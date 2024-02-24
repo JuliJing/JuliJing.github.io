@@ -1,5 +1,5 @@
 # Juli Jing, PhD
-### Postdoctoral Associate on plant molecular biology and breeding
+### Postdoctoral Associate on plant molecular biology and biotechnology
 
 ## PROFESSIONAL SUMMARY
 - 8+ years of experience in plant meiosis, breeding, molecular biology, genetics, genome editing and biochemistry.  
@@ -20,3 +20,33 @@ institutes in China, USA, Germany and France.
 - Communication: Hosted 3 years of department seminar and journal club, well-received presentations and posters are  
 selected for 3 international conferences. Trained students and colleagues on molecular biology, cytology and biochemistry  
 techniques.
+
+## TECHNICAL SKILLS
+**Molecular biology**
+- DNA/RNA extraction
+- PCR, RT-PCR, qPCR
+- Molecular cloning, vector construction, recombinant DNA technology (Homologous alignment cloning, golden gate cloning, restriction enzyme cloning and Gibson-assembly)
+- Genetic mapping: Map-based cloning, forward genetics
+- _E.coli_ and _Agrobacterium_ transformation
+- Plasmid extraction
+- Yeast-two hybrid
+- Split-luciferase complementary assay
+- Subcellular localization
+- Protein expression and purification in _E.coli._
+**Genome editing**
+- CRISPR/Cas9 target site gRNA design
+- CRISPR/Cas9 vector construction
+- _Agrobacterium_-mediated genetic transformation
+- Maize and tomato tissue culture
+- Screening of positive transgenic plants
+- Mutation and phenotypic identification of transgenic positive plants
+**Biochemistry (Protein assay)**
+- Immunoassay
+- Western blotting, SDS-PAGE gel electrophoresis
+- Co-immunoprecipitation (Co-IP)
+- Chromatin immunoprecipitation (ChIP)
+**Cytogenetics and microscopy**
+- Chromosome spreads, immunolocalization, fluorescence in situ hybridization (FISH)
+- Microscopy: Stereomicroscopy, fluorescence and confocal microscopy, SIM and STED super-resolution microscopy
+- Image processing software: Huygens, ImageJ, Imaris. Adobe Illustrator, Photoshop, GraphPad Prism, ect.
+  
