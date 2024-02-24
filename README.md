@@ -43,13 +43,13 @@ I am a highly-motivated molecular biologist specializing in cellular biology, ge
 ## RESEARCH EXPERIENCE
 **_11/2023-present_**\
 **Postdoctoral Associate - Cornell University** - Ithaca, NY, USA\
-Supervisor: Wojtek Pawlowski
+Supervisor: [Wojtek Pawlowski](https://cals.cornell.edu/wojtek-pawlowski)
 -	Contribute to book chapter in Cold Spring Harbor Protocol: Maize cytogenetics protocol
 -	Identifying the function of maize meiotic protein by ChIP-seq.
 
 **_10/2020-10/2023_**\
 **Postdoctoral scientist - Max Planck Institute for Plant Breeding Research**- Cologne, Germany\
-Supervisor: Raphael Mercier
+Supervisor: [Raphael Mercier](https://www.mpipz.mpg.de/mercier)
 -	Identified two novel Arabidopsis meiosis recombination regulators zyp1 HEI10oe and zyp1 recq4 which increase meiotic recombination rate by ~6 and ~10 times, has great application prospects in plant breeding. Applied one patent and published one Nature Communications paper based on it. 
 -	Generated 6 Arabidopsis transgenic lines for proximity labeling to identify new meiotic crossover regulation proteins.
 -	Proficient in immunofluorescence and microscopy techniques to study the protein localization on chromosome.
@@ -59,13 +59,13 @@ Supervisor: Raphael Mercier
 
 **_08/2019-11/2019_**\
 **Visiting Scholar- Cornell University** - Ithaca, NY, USA\
-Supervisor: Wojtek Pawlowski
+Supervisor: [Wojtek Pawlowski](https://cals.cornell.edu/wojtek-pawlowski)
 -	Conducted 3D immunolocalization with different antibodies in maize meiocytes.
 -	Proficiently in using fluorescence and SIM super-resolution microscopy, ZEN and ImageJ image processing software.
 
 **_09/2015-06/2020_**\
 **Ph.D candidate- China Agricultural University** - Beijing, China\
-Supervisor: Yan He
+Supervisor: [Yan He](http://www.genetics.cas.cn/edu/dsdw_187548/fznyswxyjzx_187550/202305/t20230505_6748888.html)
 -	Identified 5 new maize meiosis genes and elucidated their critical roles in meiosis process.  
 -	Extensive experience in genome editing: knocked out 2 maize and 2 Arabidopsis genes by constructing and transferring dual customized gRNA CRISPR/Cas9 vectors to plants, leading to frameshift mutations, the corresponding mutant plants showed expected abnormal phenotypes. Proficient in plant genetic transformation and tissue culture.
 -	Highly experienced in molecular cloning mythologies: constructed various vectors including 4 CRISPR/Cas9 genome editing vectors, 4 protein expression vectors, 40 yeast-two hybrid vectors, 2 subcellular localization vectors, 3 split luciferase complementation assay vectors. All these vectors expressed and functioned exceptionally well, produced expected results, and revealed the function of genes.
@@ -82,22 +82,22 @@ Dissertation: Map-based cloning and functional analysis of meiotic DNA double-st
 **B.S.: Seed Science and Engineering&emsp; Shandong Agricultural University** - Taian, Shandong, China
 
 ## PEER REVIEWED PUBLICATIONS
-1. Xu, W., Yu, Y., **Jing, J.**, Wu, Z., Zhang, X., You, C., Ma, H., Copenhaver, G.P., He, Y., and Wang, Y. SCFRMF mediates degradation of the meiosis-specific recombinase DMC1. Nature Communications (IF:14.919) 2023, 5044.
-2. Jing, J.; Mercier, R., Meiosis: Deciphering the dialog between recombination and the synaptonemal complex. Current Biology (IF:10.834) 2022, 32, (21), R1235-R1237.
-3. Durand, S*.; Lian, Q*.; **Jing, J***.; Ernst, M.; Grelon, M.; Zwicker, D.; Mercier, R., Joint control of meiotic crossover patterning by the synaptonemal complex and HEI10 dosage. Nature Communications (IF:14.919) 2022, 13, (1), 5999. (*co-first author).
-4. **Jing, J.**; Wu, N.; Xu, W.; Wang, Y.; Pawlowski, W. P.; He, Y., An F-box protein ACOZ1 functions in crossover formation by ensuring proper chromosome compaction during maize meiosis. New phytologist (IF: 10.151) 2022, 235, (1), 157-172
-5. Zhang, T.; **Jing, J.-L.**; Liu, L.; He, Y., ZmRAD17 Is Required for Accurate Double-Strand Break Repair During Maize Male Meiosis. Frontiers in plant science (IF: 5.753) 2021, 12.
-6. **Jing, J.-L.**; Zhang, T.; Kao, Y.-H.; Huang, T.-H.; Wang, C.-J. R.; He, Y., ZmMTOPVIB enables DNA double-strand break formation and bipolar spindle assembly during maize meiosis. Plant Physiology (IF: 8.34) 2020, pp.00933.2020.
-7. **Jing, J.**; Zhang, T.; Wang, Y.; Cui, Z.; He, Y., ZmRAD51C is Essential for Double-Strand Break Repair and Homologous Recombination in Maize Meiosis. International journal of molecular sciences (IF: 6.208). 2019, 20, (21).
-8. **Jing, J. L.**; Zhang, T.; Wang, Y. Z.; He, Y., Advances Towards How Meiotic Recombination Is Initiated: A Comparative View and Perspectives for Plant Meiosis Research. International journal of molecular sciences (IF: 6.208). 2019, 20, (19).
-9. Long, J. C.; Xia, A. A.; Liu, J. H.; **Jing, J. L.**; Wang, Y. Z.; Qi, C. Y.; He, Y., Decrease in DNA methylation 1 (DDM1) is required for the formation of (m) CHH islands in maize. Journal of Integrative Plant Biology (IF: 7.061). 2019, 61, (6), 749-764.
-10. Wang, Y.; Jiang, L.; Zhang, T.; **Jing, J.**; He, Y., ZmCom1 Is Required for Both Mitotic and Meiotic Recombination in Maize. Frontiers in plant science (IF: 5.753). 2018, 9, 1005.
+1. Xu, W., Yu, Y., **Jing, J.**, Wu, Z., Zhang, X., You, C., Ma, H., Copenhaver, G.P., He, Y., and Wang, Y. [SCFRMF mediates degradation of the meiosis-specific recombinase DMC1](https://www.nature.com/articles/s41467-023-40799-5). Nature Communications (IF:14.919) 2023, 5044.
+2. Jing, J.; Mercier, R., [Meiosis: Deciphering the dialog between recombination and the synaptonemal complex](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01445-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982222014452%3Fshowall%3Dtrue). Current Biology (IF:10.834) 2022, 32, (21), R1235-R1237.
+3. Durand, S*.; Lian, Q*.; **Jing, J***.; Ernst, M.; Grelon, M.; Zwicker, D.; Mercier, R., [Joint control of meiotic crossover patterning by the synaptonemal complex and HEI10 dosage](https://www.nature.com/articles/s41467-022-33472-w). Nature Communications (IF:14.919) 2022, 13, (1), 5999. (*co-first author).
+4. **Jing, J.**; Wu, N.; Xu, W.; Wang, Y.; Pawlowski, W. P.; He, Y., [An F-box protein ACOZ1 functions in crossover formation by ensuring proper chromosome compaction during maize meiosis](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18116). New phytologist (IF: 10.151) 2022, 235, (1), 157-172
+5. Zhang, T.; **Jing, J.-L.**; Liu, L.; He, Y., [ZmRAD17 Is Required for Accurate Double-Strand Break Repair During Maize Male Meiosis](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2021.626528/full). Frontiers in plant science (IF: 5.753) 2021, 12.
+6. **Jing, J.-L.**; Zhang, T.; Kao, Y.-H.; Huang, T.-H.; Wang, C.-J. R.; He, Y., [ZmMTOPVIB enables DNA double-strand break formation and bipolar spindle assembly during maize meiosis](https://academic.oup.com/plphys/article/184/4/1811/6118981?login=false). Plant Physiology (IF: 8.34) 2020, pp.00933.2020.
+7. **Jing, J.**; Zhang, T.; Wang, Y.; Cui, Z.; He, Y., [ZmRAD51C is Essential for Double-Strand Break Repair and Homologous Recombination in Maize Meiosis](https://www.mdpi.com/1422-0067/20/21/5513). International journal of molecular sciences (IF: 6.208). 2019, 20, (21).
+8. **Jing, J. L.**; Zhang, T.; Wang, Y. Z.; He, Y., [Advances Towards How Meiotic Recombination Is Initiated: A Comparative View and Perspectives for Plant Meiosis Research](https://www.mdpi.com/1422-0067/20/19/4718). International journal of molecular sciences (IF: 6.208). 2019, 20, (19).
+9. Long, J. C.; Xia, A. A.; Liu, J. H.; **Jing, J. L.**; Wang, Y. Z.; Qi, C. Y.; He, Y., [Decrease in DNA methylation 1 (DDM1) is required for the formation of (m) CHH islands in maize](https://onlinelibrary.wiley.com/doi/10.1111/jipb.12733). Journal of Integrative Plant Biology (IF: 7.061). 2019, 61, (6), 749-764.
+10. Wang, Y.; Jiang, L.; Zhang, T.; **Jing, J.**; He, Y., [ZmCom1 Is Required for Both Mitotic and Meiotic Recombination in Maize](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2018.01005/full). Frontiers in plant science (IF: 5.753). 2018, 9, 1005.
 
 ## PATENT
 As the main inventor of the patent “Increasing meiotic recombination in plants by simultaneously inhibiting ZYP1 and RECQ4”, Ref AG1700 EP, EP23179262, Germany, June 2023
 
 ## FELLOWSHIP & SCHOLARSHIP
--	**Alexander von Humboldt Research Fellowships for Postdoctoral Researchers**, for the research proposal “Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis”, 2021-2023, (83,280€)
+-	[**Alexander von Humboldt Research Fellowships for Postdoctoral Researchers**](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship), for the research proposal “Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis”, 2021-2023, (83,280€)
 -	**Postgraduate International Training and Promotion Scholarship**, China Agricultural University, 2019, CNY ¥50,000
   
 ## AWARDS 
