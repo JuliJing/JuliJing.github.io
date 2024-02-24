@@ -138,11 +138,11 @@ Computational and Structural Biotechnology Journal. Plant Physiology. Nature Com
 Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant Physiology section of Frontiers in Plant Science
 
 ## PROFESSIONAL CERTIFICATIONS
-  Essentials of Research Administration, Cornell University, Credential ID 59535337\
-  Partnering with Technology Companies, Cornell University, Credential ID 59535338\
-  CRISPR Genome Editing: Rewriting DNA and the Future of Humanity, Cornell University, Credential ID 59535339\
-  How to Effectively Manage a Research Administration Team, Cornell University, Credential ID 59536340\
-  Best Practices for Global Research Partnerships: Benefits and Challenges, Cornell University, Credential ID 59535341
+- Essentials of Research Administration, Cornell University, Credential ID 59535337\
+- Partnering with Technology Companies, Cornell University, Credential ID 59535338\
+- CRISPR Genome Editing: Rewriting DNA and the Future of Humanity, Cornell University, Credential ID 59535339\
+- How to Effectively Manage a Research Administration Team, Cornell University, Credential ID 59536340\
+- Best Practices for Global Research Partnerships: Benefits and Challenges, Cornell University, Credential ID 59535341
   
 
 ## LANGUAGES
