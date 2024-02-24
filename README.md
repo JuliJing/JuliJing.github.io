@@ -41,18 +41,14 @@ I am a highly-motivated molecular biologist specializing in cellular biology, ge
 - Image processing software: Huygens, ImageJ, Imaris. Adobe Illustrator, Photoshop, GraphPad Prism, ect.
 
 ## RESEARCH EXPERIENCE
-**_11/2023-present_** 
-
-**Postdoctoral Associate - Cornell University** - Ithaca, NY, USA                                 
-
+**_11/2023-present_**\
+**Postdoctoral Associate - Cornell University** - Ithaca, NY, USA\
 Supervisor: Wojtek Pawlowski
 -	Contribute to book chapter in Cold Spring Harbor Protocol: Maize cytogenetics protocol
 -	Identifying the function of maize meiotic protein by ChIP-seq.
 
-**_10/2020-10/2023_** 
-
-**Postdoctoral scientist - Max Planck Institute for Plant Breeding Research**- Cologne, Germany     
-
+**_10/2020-10/2023_**\
+**Postdoctoral scientist - Max Planck Institute for Plant Breeding Research**- Cologne, Germany\
 Supervisor: Raphael Mercier
 -	Identified two novel Arabidopsis meiosis recombination regulators zyp1 HEI10oe and zyp1 recq4 which increase meiotic recombination rate by ~6 and ~10 times, has great application prospects in plant breeding. Applied one patent and published one Nature Communications paper based on it. 
 -	Generated 6 Arabidopsis transgenic lines for proximity labeling to identify new meiotic crossover regulation proteins.
@@ -61,18 +57,14 @@ Supervisor: Raphael Mercier
 -	Published 2 first author peer-reviewed publications. 
 -	Communication: Hosted 3 years of department seminar and journal club, well-received presentations and posters are selected for 3 international conferences. Trained students and colleagues on molecular biology, cytology and biochemistry techniques.
 
-**_08/2019-11/2019_** 
-
-**Visiting Scholar- Cornell University** - Ithaca, NY, USA    
-
+**_08/2019-11/2019_**\
+**Visiting Scholar- Cornell University** - Ithaca, NY, USA\
 Supervisor: Wojtek Pawlowski
 -	Conducted 3D immunolocalization with different antibodies in maize meiocytes.
 -	Proficiently in using fluorescence and SIM super-resolution microscopy, ZEN and ImageJ image processing software.
 
-**_09/2015-06/2020_**
-
-**Ph.D candidate- China Agricultural University** - Beijing, China    
-
+**_09/2015-06/2020_**\
+**Ph.D candidate- China Agricultural University** - Beijing, China\
 Supervisor: Yan He
 -	Identified 5 new maize meiosis genes and elucidated their critical roles in meiosis process.  
 -	Extensive experience in genome editing: knocked out 2 maize and 2 Arabidopsis genes by constructing and transferring dual customized gRNA CRISPR/Cas9 vectors to plants, leading to frameshift mutations, the corresponding mutant plants showed expected abnormal phenotypes. Proficient in plant genetic transformation and tissue culture.
@@ -82,18 +74,12 @@ Supervisor: Yan He
 -	Published 8 peer-reviewed publications including 4 first-author publications.
 
 ## EDUCATION
-
-**_09/2015-06/2020_**
-
-**Ph.D.: Crop Genetics and Breeding**                                                        
-China Agricultural University - National Maize Improvement Center - Beijing, China.
-
+**_09/2015-06/2020_**\
+**Ph.D.: Crop Genetics and Breeding&emsp; China Agricultural University** - National Maize Improvement Center - Beijing, China\
 Dissertation: Map-based cloning and functional analysis of meiotic DNA double-strand break (DSB) repair factor ZmRAD51C and chromosome configuration regulator ICC1 in Maize. 
 
-**_09/2011-06/2015_**
-
-**Bachelor of Science: Seed Science and Engineering**     
-Shandong Agricultural University - Taian, Shandong, China
+**_09/2011-06/2015_**\
+**B.S.: Seed Science and Engineering&emsp; Shandong Agricultural University** - Taian, Shandong, China
 
 ## PEER REVIEWED PUBLICATIONS
 1. Xu, W., Yu, Y., **Jing, J.**, Wu, Z., Zhang, X., You, C., Ma, H., Copenhaver, G.P., He, Y., and Wang, Y. SCFRMF mediates degradation of the meiosis-specific recombinase DMC1. Nature Communications (IF:14.919) 2023, 5044.
@@ -111,47 +97,39 @@ Shandong Agricultural University - Taian, Shandong, China
 As the main inventor of the patent “Increasing meiotic recombination in plants by simultaneously inhibiting ZYP1 and RECQ4”, Ref AG1700 EP, EP23179262, Germany, June 2023
 
 ## FELLOWSHIP & SCHOLARSHIP
--	Alexander von Humboldt Research Fellowships for Postdoctoral Researchers, for the research proposal “Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis”, 2021-2023, (83,280€)
--	Postgraduate International Training and Promotion Scholarship, China Agricultural University, 2019, CNY ¥50,000
+-	**Alexander von Humboldt Research Fellowships for Postdoctoral Researchers**, for the research proposal “Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis”, 2021-2023, (83,280€)
+-	**Postgraduate International Training and Promotion Scholarship**, China Agricultural University, 2019, CNY ¥50,000
   
 ## AWARDS 
--	2020&emsp;&emsp; Outstanding Graduate Award of Beijing
-
--	2020&emsp;&emsp; Outstanding Graduate Award of China Agricultural University
-
--	2019&emsp;&emsp; Monsanto Scholarship
-
--	2016-2018&emsp;&emsp; Doctoral First-class Academic Scholarship
-
--	2015&emsp;&emsp; Outstanding Graduate Award of Shandong Agricultural University
-
--	2014&emsp; Denghai Scholarship
+-	_2020_&emsp;&emsp;&emsp;&emsp;&emsp; Outstanding Graduate Award of Beijing
+-	_2020_&emsp;&emsp;&emsp;&emsp;&emsp; Outstanding Graduate Award of China Agricultural University
+-	_2019_&emsp;&emsp;&emsp;&emsp;&emsp; Monsanto Scholarship
+-	_2016-2018_&emsp;&emsp;&ensp; Doctoral First-class Academic Scholarship
+-	_2015_&emsp;&emsp;&emsp;&emsp;&emsp; Outstanding Graduate Award of Shandong Agricultural University
+-	_2014_&emsp;&emsp;&emsp;&emsp;&emsp; Denghai Scholarship
 
 ## CONFERENCE PARTICIPATION
--	_06/2023_  **EMBO Meiosis Workshop**, Pamhagen, Austria
-
-&emsp;&emsp; Poster: Unleashing meiotic crossovers by manipulating class I and class II crossover pathway
+-	_06/2023_  &nbsp;**EMBO Meiosis Workshop**, Pamhagen, Austria\
+  &emsp;&emsp;&emsp;&emsp; Poster: Unleashing meiotic crossovers by manipulating class I and class II crossover pathway
  	
--	_09/2022_  **Cologne-Versailles Symposium on Meiosis**, Cologne, Germany
-
-&emsp;&emsp; Presentation: Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana
+-	_09/2022_  &nbsp;**Cologne-Versailles Symposium on Meiosis**, Cologne, Germany\
+  &emsp;&emsp;&emsp;&emsp; Presentation: Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana
  	
--	08/2022_  **FASEB Science Research Conference: The Genetic Recombination and Genome Rearrangements Conference**, Steamboat Springs, CO, USA
-
-&emsp;&emsp; Poster: Unleashing greater crossover potential in Arabidopsis thaliana
+-	_08/2022_  &nbsp;**FASEB Science Research Conference: The Genetic Recombination and Genome Rearrangements Conference**, Steamboat Springs, CO, USA\
+  &emsp;&emsp;&emsp;&emsp; Poster: Unleashing greater crossover potential in Arabidopsis thaliana
 
 ## INVITED PRESENTATIONS
--	_05/2021_ **Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis**.
-&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_05/2021_ &nbsp;**Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis**\
+  &emsp;&emsp;&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
   
--	_02/2022_ **Studying meiotic recombination in zyp1 HEI10oe and zyp1 recq4**.
-&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_02/2022_ &nbsp;**Studying meiotic recombination in zyp1 HEI10oe and zyp1 recq4**\
+  &emsp;&emsp;&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
--	_09/2022_ **Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**.
-&emsp;&emsp; Cologne-Versailles Symposium on Meiosis, Cologne, Germany
+-	_09/2022_ &nbsp;**Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**\
+	&emsp;&emsp;&emsp;&emsp; Cologne-Versailles Symposium on Meiosis, Cologne, Germany
 
--	_04/2023_ **Unleashing meiotic crossovers by manipulating class I and class II crossover pathway**.
-&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_04/2023_ **Unleashing meiotic crossovers by manipulating class I and class II crossover pathway**\
+  &emsp;&emsp;&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
 ## PEER REVIEWER FOR SCIENTIFIC JOURNALS
 Computational and Structural Biotechnology Journal. Plant Physiology. Nature Communications. Current Biology. Frontiers in Plant Science. Journal of Experimental Botany
@@ -160,14 +138,10 @@ Computational and Structural Biotechnology Journal. Plant Physiology. Nature Com
 Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant Physiology section of Frontiers in Plant Science
 
 ## PROFESSIONAL CERTIFICATIONS
-  Essentials of Research Administration, Cornell University, Credential ID 59535337
-  
-  Partnering with Technology Companies, Cornell University, Credential ID 59535338
-  
-  CRISPR Genome Editing: Rewriting DNA and the Future of Humanity, Cornell University, Credential ID 59535339
-  
-  How to Effectively Manage a Research Administration Team, Cornell University, Credential ID 59536340
-  
+  Essentials of Research Administration, Cornell University, Credential ID 59535337\
+  Partnering with Technology Companies, Cornell University, Credential ID 59535338\
+  CRISPR Genome Editing: Rewriting DNA and the Future of Humanity, Cornell University, Credential ID 59535339\
+  How to Effectively Manage a Research Administration Team, Cornell University, Credential ID 59536340\
   Best Practices for Global Research Partnerships: Benefits and Challenges, Cornell University, Credential ID 59535341
   
 
@@ -175,18 +149,12 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
  Chinese (Native proficiency), English (Professional working proficiency), German (Elementary proficiency)
 
 ## MEDIA REPORT PAGES
-<https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
-
-<https://www.eurekalert.org/news-releases/968931>
-
-<https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
-
-<http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>
-
-<https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>
-
-<https://www.youtube.com/watch?v=BPk3NRf0av8>
-
+<https://www.sciencedaily.com/releases/2022/10/221024131054.htm>\
+<https://www.eurekalert.org/news-releases/968931>\
+<https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>\
+<http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>\
+<https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>\
+<https://www.youtube.com/watch?v=BPk3NRf0av8>\
 <https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html>
 
 
