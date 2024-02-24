@@ -124,15 +124,15 @@ As the main inventor of the patent “Increasing meiotic recombination in plants
 -	2014         Denghai Scholarship
 
 ## CONFERENCE PARTICIPATION
--	_06/2023_  EMBO Meiosis Workshop, Pamhagen, Austria
+-	_06/2023_  **EMBO Meiosis Workshop**, Pamhagen, Austria
 
  	Poster: Unleashing meiotic crossovers by manipulating class I and class II crossover pathway
  	
--	_09/2022_  Cologne-Versailles Symposium on Meiosis, Cologne, Germany
+-	_09/2022_  **Cologne-Versailles Symposium on Meiosis**, Cologne, Germany
 
  	Presentation: Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana
  	
--	08/2022  FASEB Science Research Conference: The Genetic Recombination and Genome Rearrangements Conference, Steamboat Springs, CO, USA
+-	08/2022_  **FASEB Science Research Conference: The Genetic Recombination and Genome Rearrangements Conference**, Steamboat Springs, CO, USA
 
  	Poster: Unleashing greater crossover potential in Arabidopsis thaliana
 
@@ -141,7 +141,7 @@ As the main inventor of the patent “Increasing meiotic recombination in plants
   
 -	_02/2022_ **Studying meiotic recombination in zyp1 HEI10oe and zyp1 recq4**. Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
--	_09/2022_ **Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**, Cologne-Versailles Symposium on Meiosis, Cologne, Germany
+-	_09/2022_ **Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**. Cologne-Versailles Symposium on Meiosis, Cologne, Germany
 
 -	_04/2023_ **Unleashing meiotic crossovers by manipulating class I and class II crossover pathway**. Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
@@ -153,22 +153,33 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
 
 ## PROFESSIONAL CERTIFICATIONS
   Essentials of Research Administration, Cornell University, Credential ID 59535337
+  
   Partnering with Technology Companies, Cornell University, Credential ID 59535338
+  
   CRISPR Genome Editing: Rewriting DNA and the Future of Humanity, Cornell University, Credential ID 59535339
+  
   How to Effectively Manage a Research Administration Team, Cornell University, Credential ID 59536340
+  
   Best Practices for Global Research Partnerships: Benefits and Challenges, Cornell University, Credential ID 59535341
+  
 
 ## LANGUAGES
  Chinese (Native proficiency), English (Professional working proficiency), German (Elementary proficiency)
 
 ## MEDIA REPORT PAGES
-_ https://www.sciencedaily.com/releases/2022/10/221024131054.htm
-_ https://www.eurekalert.org/news-releases/968931
-_ https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html
-_ http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html
-_ https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/
-_ https://www.youtube.com/watch?v=BPk3NRf0av8
-_ https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html
+https://www.sciencedaily.com/releases/2022/10/221024131054.htm
+
+https://www.eurekalert.org/news-releases/968931
+
+https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html
+
+http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html
+
+https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/
+
+https://www.youtube.com/watch?v=BPk3NRf0av8
+
+https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html
 
 
 
