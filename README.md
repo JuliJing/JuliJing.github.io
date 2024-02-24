@@ -87,6 +87,7 @@ Supervisor: Yan He
 
 **Ph.D.: Crop Genetics and Breeding**                                                        
 China Agricultural University - National Maize Improvement Center - Beijing, China.
+
 Dissertation: Map-based cloning and functional analysis of meiotic DNA double-strand break (DSB) repair factor ZmRAD51C and chromosome configuration regulator ICC1 in Maize. 
 
 **_09/2011-06/2015_**
@@ -114,39 +115,43 @@ As the main inventor of the patent “Increasing meiotic recombination in plants
 -	Postgraduate International Training and Promotion Scholarship, China Agricultural University, 2019, CNY ¥50,000
   
 ## AWARDS 
--	2020         Outstanding Graduate Award of Beijing
+-	2020&emsp;&emsp; Outstanding Graduate Award of Beijing
 
--	2020         Outstanding Graduate Award of China Agricultural University
+-	2020&emsp;&emsp; Outstanding Graduate Award of China Agricultural University
 
--	2019         Monsanto Scholarship
+-	2019&emsp;&emsp; Monsanto Scholarship
 
--	2016-2018    Doctoral First-class Academic Scholarship
+-	2016-2018&emsp;&emsp; Doctoral First-class Academic Scholarship
 
--	2015         Outstanding Graduate Award of Shandong Agricultural University
+-	2015&emsp;&emsp; Outstanding Graduate Award of Shandong Agricultural University
 
--	2014         Denghai Scholarship
+-	2014&emsp; Denghai Scholarship
 
 ## CONFERENCE PARTICIPATION
 -	_06/2023_  **EMBO Meiosis Workshop**, Pamhagen, Austria
 
- 	Poster: Unleashing meiotic crossovers by manipulating class I and class II crossover pathway
+&emsp;&emsp; Poster: Unleashing meiotic crossovers by manipulating class I and class II crossover pathway
  	
 -	_09/2022_  **Cologne-Versailles Symposium on Meiosis**, Cologne, Germany
 
- 	Presentation: Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana
+&emsp;&emsp; Presentation: Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana
  	
 -	08/2022_  **FASEB Science Research Conference: The Genetic Recombination and Genome Rearrangements Conference**, Steamboat Springs, CO, USA
 
- 	Poster: Unleashing greater crossover potential in Arabidopsis thaliana
+&emsp;&emsp; Poster: Unleashing greater crossover potential in Arabidopsis thaliana
 
 ## INVITED PRESENTATIONS
--	_05/2021_ **Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis**. Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_05/2021_ **Exploring the crossover decision mechanism within chromosome structure in Arabidopsis meiosis**.
+&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
   
--	_02/2022_ **Studying meiotic recombination in zyp1 HEI10oe and zyp1 recq4**. Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_02/2022_ **Studying meiotic recombination in zyp1 HEI10oe and zyp1 recq4**.
+&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
--	_09/2022_ **Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**. Cologne-Versailles Symposium on Meiosis, Cologne, Germany
+-	_09/2022_ **Simultaneously and massively increasing class I and class II crossovers in Arabidopsis thaliana**.
+&emsp;&emsp; Cologne-Versailles Symposium on Meiosis, Cologne, Germany
 
--	_04/2023_ **Unleashing meiotic crossovers by manipulating class I and class II crossover pathway**. Max Planck Institute for Plant Breeding Research, Cologne, Germany
+-	_04/2023_ **Unleashing meiotic crossovers by manipulating class I and class II crossover pathway**.
+&emsp;&emsp; Max Planck Institute for Plant Breeding Research, Cologne, Germany
 
 ## PEER REVIEWER FOR SCIENTIFIC JOURNALS
 Computational and Structural Biotechnology Journal. Plant Physiology. Nature Communications. Current Biology. Frontiers in Plant Science. Journal of Experimental Botany
@@ -170,13 +175,19 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
  Chinese (Native proficiency), English (Professional working proficiency), German (Elementary proficiency)
 
 ## MEDIA REPORT PAGES
-- <https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
-- <https://www.eurekalert.org/news-releases/968931>
-- <https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
-- <http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>
-- <https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>
-- <https://www.youtube.com/watch?v=BPk3NRf0av8>
-- <https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html>
+<https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
+
+<https://www.eurekalert.org/news-releases/968931>
+
+<https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
+
+<http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>
+
+<https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>
+
+<https://www.youtube.com/watch?v=BPk3NRf0av8>
+
+<https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html>
 
 
 
