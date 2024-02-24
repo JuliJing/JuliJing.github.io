@@ -170,19 +170,19 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
  Chinese (Native proficiency), English (Professional working proficiency), German (Elementary proficiency)
 
 ## MEDIA REPORT PAGES
-- <https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
+<https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
   
-- <https://www.eurekalert.org/news-releases/968931>
+<https://www.eurekalert.org/news-releases/968931>
 
-- <https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
+<https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
 
-- <http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>
+<http://www.postscientist.com/2022/10/evidence-for-new-theory-of-genetic.html>
 
-- <https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>
+<https://scienmag.com/evidence-for-new-theory-of-genetic-recombination/>
 
-- <https://www.youtube.com/watch?v=BPk3NRf0av8>
+<https://www.youtube.com/watch?v=BPk3NRf0av8>
 
-- <https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html>
+<https://cab.cau.edu.cn/art/2020/6/19/art_23549_683866.html>
 
 
 
