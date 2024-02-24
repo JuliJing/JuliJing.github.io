@@ -1,3 +1,6 @@
+{:refedf: style="text-align: center;"}
+![Image](picture.jpg)
+{: refedf}
 
 # Juli Jing, PhD
 ### Postdoctoral Associate on plant molecular biology and genome editing
