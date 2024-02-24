@@ -170,7 +170,7 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
  Chinese (Native proficiency), English (Professional working proficiency), German (Elementary proficiency)
 
 ## MEDIA REPORT PAGES
-https://www.sciencedaily.com/releases/2022/10/221024131054.htm
+<https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
 
 https://www.eurekalert.org/news-releases/968931
 
