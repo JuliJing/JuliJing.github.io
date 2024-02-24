@@ -171,6 +171,7 @@ Review Editor for Plant Genetics, Epigenetics and Chromosome Biology and Plant P
 
 ## MEDIA REPORT PAGES
 - <https://www.sciencedaily.com/releases/2022/10/221024131054.htm>
+  
 - <https://www.eurekalert.org/news-releases/968931>
 
 - <https://phys.org/news/2022-10-evidence-theory-genetic-recombination.html>
