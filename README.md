@@ -4,6 +4,11 @@
 
 # Juli Jing, PhD
 ### Postdoctoral Associate on plant molecular biology and genome editing
+School of Integrative Plant Science\
+Cornell University, Ithaca, NY, 14853\
+Tel: +1 (607) 339-6430\
+Email: jj696@cornell.edu,julijing8@gmail.com\
+Linkedin: [Juli Jing](https://www.linkedin.com/in/juli-jing-b6835a152/)
 
 ## PROFESSIONAL SUMMARY
 I am a highly-motivated molecular biologist specializing in cellular biology, genetics, genome editing and plant breeding. After completing a PhD and 3 years of postdoctoral research, I accumulated demonstrated success in technical proficiency such as molecular cloning, CRISPR/Cas9 genome editing, cytology, biochemistry and biotechnology. I also accumulated extensive knowledge about functional genome study, genome editing vector design, DNA homologous recombination and repair mechanism, enable me to develop more advanced genome editing methodologies, design and implement complex genome editing programs. During my 8 years of academic career, I have developed the specialist skillsets needed for scientific study, creativity, communicate complex concepts across domains, collaboration with multi-discipline team members, multi-task and organization abilities to work in a fast-paced, dynamic environment. I believe my solid background in genome editing, and strong work ethic will enable to adeptly manage complex research projects and collaborate effectively across functions.
