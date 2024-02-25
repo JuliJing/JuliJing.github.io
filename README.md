@@ -7,7 +7,7 @@
 School of Integrative Plant Science\
 Cornell University, Ithaca, NY, 14853\
 Tel: +1 (607) 339-6430\
-Email: jj696@cornell.edu,julijing8@gmail.com\
+Email: jj696@cornell.edu, julijing8@gmail.com\
 Linkedin: [Juli Jing](https://www.linkedin.com/in/juli-jing-b6835a152/)
 
 ## PROFESSIONAL SUMMARY
